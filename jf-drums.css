@@ -64,6 +64,12 @@ main {
     padding-top: 80px;
 }
 
+.greeting {
+    font-size: 23px;
+    color: turquoise;
+    text-align: center;
+}
+
 .seccion-1 {
     display: flex;
     justify-content: center;
